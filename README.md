@@ -1,1 +1,1 @@
-# SpellChecker
+Created a Python spellchecker is a great project to handle text processing and natural language tasks. If you've already built a basic version, here are some considerations for improving, testing, and extending it.
